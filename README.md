@@ -29,10 +29,11 @@ floats, bool arrays and lists and also supported strings that are use escape cha
 # List an arrays
 Lists are surrounded with curly backets and have the following format.
 
-[b]MyDogs={Name:Tiny, Age:=6, Breed:German Sheparred, Color:Brown}[/b]
+<b>MyDogs={Name:Tiny, Age:=6, Breed:German Sheparred, Color:Brown}</b>
 
 Arrays are like lists except they use the square brackets and have just values.
-[b]Score=[50,100,20,30,40][/b]
+
+<b>Score=[50,100,20,30,40]</b>
 
 
 
